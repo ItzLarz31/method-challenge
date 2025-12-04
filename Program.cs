@@ -14,6 +14,7 @@ Random random = new Random();
 int randomVillainCount = random.Next(2, 7);
 Console.WriteLine($"Upon arriving you notice there is {randomVillainCount} enemies you have to take down.\n");
 Thread.Sleep(2000);
+Villain[] villains = new Villain[randomVillainCount];
 
 
 for (int i = 0; i < randomVillainCount; i++)
@@ -33,6 +34,7 @@ for (int i = 0; i < randomVillainCount; i++)
     }
 
     Villain villain = new Villain(randomVillainLevel);
+    villains[i] = villain;
 
     victory = battleHandler.SimulateBattle(hero, villain);
     Thread.Sleep(3000);

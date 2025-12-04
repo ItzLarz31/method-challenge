@@ -12,3 +12,18 @@ C:\Users\Shawn Dishman\projects\method-challenge\obj\Debug\net9.0\refint\method-
 C:\Users\Shawn Dishman\projects\method-challenge\obj\Debug\net9.0\method-challenge.pdb
 C:\Users\Shawn Dishman\projects\method-challenge\obj\Debug\net9.0\method-challenge.genruntimeconfig.cache
 C:\Users\Shawn Dishman\projects\method-challenge\obj\Debug\net9.0\ref\method-challenge.dll
+C:\Users\Shawn\documents\projects\method-challenge\bin\Debug\net9.0\method-challenge.exe
+C:\Users\Shawn\documents\projects\method-challenge\bin\Debug\net9.0\method-challenge.deps.json
+C:\Users\Shawn\documents\projects\method-challenge\bin\Debug\net9.0\method-challenge.runtimeconfig.json
+C:\Users\Shawn\documents\projects\method-challenge\bin\Debug\net9.0\method-challenge.dll
+C:\Users\Shawn\documents\projects\method-challenge\bin\Debug\net9.0\method-challenge.pdb
+C:\Users\Shawn\documents\projects\method-challenge\obj\Debug\net9.0\method-challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shawn\documents\projects\method-challenge\obj\Debug\net9.0\method-challenge.AssemblyInfoInputs.cache
+C:\Users\Shawn\documents\projects\method-challenge\obj\Debug\net9.0\method-challenge.AssemblyInfo.cs
+C:\Users\Shawn\documents\projects\method-challenge\obj\Debug\net9.0\method-challenge.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\documents\projects\method-challenge\obj\Debug\net9.0\method-challenge.sourcelink.json
+C:\Users\Shawn\documents\projects\method-challenge\obj\Debug\net9.0\method-challenge.dll
+C:\Users\Shawn\documents\projects\method-challenge\obj\Debug\net9.0\refint\method-challenge.dll
+C:\Users\Shawn\documents\projects\method-challenge\obj\Debug\net9.0\method-challenge.pdb
+C:\Users\Shawn\documents\projects\method-challenge\obj\Debug\net9.0\method-challenge.genruntimeconfig.cache
+C:\Users\Shawn\documents\projects\method-challenge\obj\Debug\net9.0\ref\method-challenge.dll
