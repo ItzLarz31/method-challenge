@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shawn Dishman\\projects\\method-challenge\\method-challenge.csproj": {}
+    "C:\\Users\\Shawn\\documents\\projects\\method-challenge\\method-challenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shawn Dishman\\projects\\method-challenge\\method-challenge.csproj": {
+    "C:\\Users\\Shawn\\documents\\projects\\method-challenge\\method-challenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shawn Dishman\\projects\\method-challenge\\method-challenge.csproj",
+        "projectUniqueName": "C:\\Users\\Shawn\\documents\\projects\\method-challenge\\method-challenge.csproj",
         "projectName": "method-challenge",
-        "projectPath": "C:\\Users\\Shawn Dishman\\projects\\method-challenge\\method-challenge.csproj",
-        "packagesPath": "C:\\Users\\Shawn Dishman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shawn Dishman\\projects\\method-challenge\\obj\\",
+        "projectPath": "C:\\Users\\Shawn\\documents\\projects\\method-challenge\\method-challenge.csproj",
+        "packagesPath": "C:\\Users\\Shawn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shawn\\documents\\projects\\method-challenge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Shawn Dishman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Shawn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
