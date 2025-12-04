@@ -17,7 +17,7 @@ Thread.Sleep(2000);
 Villain[] villains = new Villain[randomVillainCount];
 
 
-for (int i = 0; i < randomVillainCount; i++)
+for (int i = 0; i < villains.Length; i++)
 {
     int randomBossChance = random.Next(0, 11);
     int randomVillainLevel = random.Next(1, int.Parse(heroLevel) + 10);
